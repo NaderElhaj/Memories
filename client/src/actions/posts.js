@@ -12,3 +12,9 @@ try {
 
 
 }
+export const createPost = () =>{
+    
+}
+export const updatePost = () =>{
+
+}
